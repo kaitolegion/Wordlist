@@ -1,6 +1,4 @@
--.php
--about.php
-..php
+about.php
 0.php
 00.php
 0byte.php
@@ -737,4 +735,3 @@ zw3gu.php
 zwimvali.php
 zyqy2.php
 zyres.php
-~.php
